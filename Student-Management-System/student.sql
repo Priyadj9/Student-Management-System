@@ -5,10 +5,10 @@ DROP TABLE IF EXISTS `student`;
 CREATE TABLE `student` (
   `id` int NOT NULL,
   `name` varchar(40) DEFAULT NULL,
-  `dateOfAdmission` int DEFAULT NULL,
-  `physics` int DEFAULT NULL,
-  `chemistry` int DEFAULT NULL,
-  `biology` int DEFAULT NULL,
+  `dateOfAdmission` varchar(40) DEFAULT NULL,
+  `physics` float(126,2) DEFAULT NULL,
+  `chemistry` float(126,2) DEFAULT NULL,
+  `biology` float(126,2) DEFAULT NULL,
   PRIMARY KEY (`id`)
 )
 
