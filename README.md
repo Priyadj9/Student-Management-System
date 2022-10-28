@@ -1,5 +1,4 @@
 # Student-Management-System
-Student Management System Project
 
 This is a basic implementation of a Student Management System. It performs the basic CRUD operations.
 
@@ -8,6 +7,25 @@ This is a basic implementation of a Student Management System. It performs the b
 2. VSCode Version: 1.72.2
 
 **The tools used for implementing this were:**
-1. JDK version 8.
-2. reactJS
+1. JDK Version 8
+2. ReactJS Versio 18.2.0
 3. MySQL Version: 8.0.31
+4. Nodejs Version: 18.11.0
+5. npm Version: 8.19.2
+-------
+
+In the project directory, you can run:
+```
+npm install
+```
+It will automatically download all the dependencies. 
+```
+npm start
+```
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+--------
