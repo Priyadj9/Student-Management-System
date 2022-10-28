@@ -23,8 +23,10 @@ run ManagementApplication.java as an java application.
 ```
 Open MySQL
 ```
-run the .sql script
+run the students.sql script
 ```
+It will create the database as well as the student table.
+
 Now open visual code or terminal. Open the src directory, you can run:
 ```
 npm install
