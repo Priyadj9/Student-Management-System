@@ -14,6 +14,7 @@ This is a basic implementation of a Student Management System. It performs the b
 5. npm Version: 8.19.2
 -------
 
+###Scripts
 In the project directory, you can run:
 ```
 npm install
@@ -28,4 +29,13 @@ Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
+
 --------
+
+###Learn More
+
+You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+To learn more about spring boot, check out the [spring tutorial website](https://www.javatpoint.com/spring-boot-tutorial).
