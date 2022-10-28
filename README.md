@@ -15,7 +15,17 @@ This is a basic implementation of a Student Management System. It performs the b
 -------
 
 ### Scripts
-In the project directory, you can run:
+
+Download the project and unzip it. Or you can clone the repo.
+After that open the project in eclipse and then do
+```
+run ManagementApplication.java as an java application.
+```
+Open MySQL
+```
+run the .sql script
+```
+Now open visual code or terminal. Open the src directory, you can run:
 ```
 npm install
 ```
